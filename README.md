@@ -13,7 +13,7 @@ As part of this project, I successfully deployed a web server on a public cloud 
 By undertaking this initiative, I deepened my understanding of cloud computing, server administration, and infrastructure deployment. This project stands as a testament to my capability to effectively employ cloud technologies for web hosting.
 
 ## Visit the Website
-Explore the world of Senyai by visiting the website [here](http://54.255.156.25).
+Explore the world of Senyai by visiting the website [here](https://waariss.github.io/Senyai/).
 
 ---
 
