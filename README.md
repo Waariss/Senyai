@@ -1,5 +1,7 @@
 # Senyai
 
+[![pages-build-deployment](https://github.com/Waariss/Senyai/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Waariss/Senyai/actions/workflows/pages/pages-build-deployment)
+
 Welcome to **Senyai World**!
 
 ## Project Overview
